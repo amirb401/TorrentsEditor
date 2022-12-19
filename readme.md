@@ -12,6 +12,12 @@ This app is a simple command line tool that allows you to change the announce UR
 4. Make sure your ".torrent" files are located in the same folder as the `torrentEditor.py` is.
 4. Follow the prompts to enter the announce URL to be replaced and the **new** announce URL.
 
+## Executable Download
+1. Download the archive via -> https://www.mediafire.com/file/whvm3d5egyqivae/torrentEditor.7z/file
+2. Extract the file using any archiving tool
+3. Copy your torrent files into the archived folder
+4. Run the "torrentEditor.exe" file and continue as prompted.
+
 ## How It Looks:
 
 ![Preview](https://i.imgur.com/eI35IXv.gif)
