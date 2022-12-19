@@ -20,7 +20,8 @@ This app is a simple command line tool that allows you to change the announce UR
 - The app will only modify torrent files. (Files with the .torrent extension).
 - The app will modify files strictly based on the input given, so make sure you provide the correct URL.
 - This app will not modify your private key, it will only change the base url you provide it with.
-- 
+- This app is using torrentool by idlesign - https://github.com/idlesign/torrentool
+
 
 ## Disclaimer
 **Use at your own risk!**
